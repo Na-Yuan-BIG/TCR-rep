@@ -1,0 +1,4 @@
+
+
+Algin
+/xtdisk/liufan_group/yuanna/TCR/MixCR/mixcr-3.0.13/mixcr analyze amplicon --species hs --starting-material dna --5-end v-primers  --3-end j-primers  --adapters adapters-present  --receptor-type TRB  -t 20 input_R1.fastq input_R2.fastq analysis 
